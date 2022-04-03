@@ -4,3 +4,5 @@ Actualmente me encuentro en la última etapa del Curso Samsung Desarrolladoras, 
 Geminiana, nací en 1987 en Bs.As Argentina. </br>
 Soy Abogada, especializada en Género, aunque también me desempeño en otras áreas del derecho como Familia, Penal y Consumo </br>
 Ingles nivel intermedio, y Arabe estándar básico </br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noedenisel&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
