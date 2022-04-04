@@ -1,8 +1,8 @@
+Geminiana, nacida en 1987 en Bs.As Argentina. </br>
 Amante de los desafios, siempre estoy buscando algo nuevo y diferente que estudiar </br>
-Ahora se me dio por el desarrollo web, que poco a poco se fue transformando en una pasión. </br>
-Actualmente me encuentro en la última etapa del Curso Samsung Desarrolladoras, impartido en la plataforma BeJob, introduciéndome al mundo Full Stack </br>
-Geminiana, nací en 1987 en Bs.As Argentina. </br>
-Soy Abogada, especializada en Género, aunque también me desempeño en otras áreas del derecho como Familia, Penal y Consumo </br>
-Ingles nivel intermedio, y Arabe estándar básico </br>
+Now: FrontEnd developer Jr. </br>
+Coming Soon: Full Stack developer, cursando la última etapa del Curso Samsung Desarrolladoras, impartido en la plataforma BeJob </br>
+Before: Abogada, especializada en Género // Técnica Superior en Investigaciones periciales </br>
+Languages: Ingles nivel intermedio // Arabe estándar básico </br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noedenisel&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
