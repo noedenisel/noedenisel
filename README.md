@@ -4,5 +4,7 @@ Now: FrontEnd developer Jr. </br>
 Coming Soon: Full Stack developer, cursando la última etapa del Curso Samsung Desarrolladoras, impartido en la plataforma BeJob </br>
 Before: Abogada, especializada en Género // Técnica Superior en Investigaciones periciales </br>
 Languages: Ingles nivel intermedio // Arabe estándar básico </br>
+Languages and Tools:
+html5 css3  javascript typescript  npm webpack 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noedenisel&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
