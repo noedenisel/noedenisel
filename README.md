@@ -1,7 +1,7 @@
 Geminiana, nacida en 1987 en Bs.As Argentina. </br>
 Amante de los desafios, siempre estoy buscando algo nuevo y diferente que estudiar </br>
-Now: FrontEnd developer Jr. </br>
-Coming Soon: Full Stack developer, cursando la última etapa del Curso Samsung Desarrolladoras, impartido en la plataforma BeJob </br>
+Now: Full Stack developer jr. </br>
+Curso Samsung Desarrolladoras, impartido en la plataforma BeJob </br>
 Before: Abogada, especializada en Género // Técnica Superior en Investigaciones periciales </br>
 Languages: Ingles nivel intermedio // Arabe estándar básico </br>
 
