@@ -28,8 +28,8 @@ Siempre estoy buscando algo nuevo y diferente que estudiar
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> 
 </a>
 &nbsp; &nbsp;
-<a href="https://www.w3.org/html/" rel="nofollow">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://angular.io/" rel="nofollow">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
+alt="angular" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://reactjs.org//" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width: 100%;"> 
 </a>
 &nbsp; &nbsp;
