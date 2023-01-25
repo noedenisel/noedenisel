@@ -37,13 +37,12 @@ alt="material" width="40" height="40" style="max-width: 100%;"> </a>
 
 
 <a href="https://reactjs.org//" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://es.redux.js.org//" rel="nofollow"> <img ssrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"alt="redux" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://es.redux.js.org//" rel="nofollow"> <img ssrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a>
 &nbsp; &nbsp;
 
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" 
 height="40" style="max-width: 100%;"> </a>
-<a href="https://github.com/about"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://github.com/about">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.npmjs.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="max-width: 100%;"> </a>
 
 
