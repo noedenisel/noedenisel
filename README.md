@@ -1,8 +1,7 @@
 <h1>About Me</h1>
 
-Nacida en 1987 en Bs.As, Argentina
-Amante de los desafios
-Siempre estoy buscando algo nuevo y diferente que estudiar  
+Nacida en 1987 en Bs.As, Argentina.
+<p>Amante de los desafios, siempre estoy buscando algo nuevo y diferente que estudiar  </p>
 
 *Now:* 
 - UI Developer - FrontEnd, Curso Samsung Desarrolladoras 
