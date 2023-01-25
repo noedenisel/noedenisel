@@ -17,39 +17,21 @@ Siempre estoy buscando algo nuevo y diferente que estudiar
 - Arabe estándar A2
 - Italiano A1
 
-<a href="https://www.w3.org/html/" rel="nofollow"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> 
-</a>
-
-<a href="https://www.w3schools.com/css/" rel="nofollow"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> 
-</a>
-
+<a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 &nbsp; &nbsp;
-
-<a href="https://sass-lang.com/" rel="nofollow"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> 
-</a>
-
+<a href="https://sass-lang.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a>
 &nbsp; &nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> 
 </a>
-
-<a href="https://www.typescriptlang.org/" rel="nofollow"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> 
-</a>
- 
 &nbsp; &nbsp;
-<a href="https://reactjs.org//" rel="nofollow"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width: 100%;"> 
+<a href="https://reactjs.org//" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width: 100%;"> 
 </a>
-
 &nbsp; &nbsp;
-<a href="https://git-scm.com/" rel="nofollow"> 
- <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" 
+<a href="https://git-scm.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" 
 height="40" style="max-width: 100%;"> </a>
+
 
 <a href="https://github.com/about"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width: 100%;"> 
