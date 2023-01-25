@@ -25,16 +25,23 @@ Siempre estoy buscando algo nuevo y diferente que estudiar
 <a href="https://sass-lang.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a>
 &nbsp; &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+&nbsp; &nbsp;
+
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> 
 </a>
-&nbsp; &nbsp;
-<a href="https://material.angular.io/" rel="nofollow">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"           
-alt="material" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://angular.io/" rel="nofollow">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
 alt="angular" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://material.angular.io/" rel="nofollow">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" 
+alt="material" width="40" height="40" style="max-width: 100%;"> </a>
+&nbsp; &nbsp;
+
+
 <a href="https://reactjs.org//" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width: 100%;"> 
 </a>
+<a href="https://es.redux.js.org//" rel="nofollow"> <img ssrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"alt="redux" width="40" height="40" style="max-width: 100%;"> 
+</a>
 &nbsp; &nbsp;
+
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" 
 height="40" style="max-width: 100%;"> </a>
 <a href="https://github.com/about"> 
