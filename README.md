@@ -11,7 +11,7 @@ Nacida en 1987 en Bs.As, Argentina.
 - Abogada, especializada en Género
 - Técnica Superior en Investigaciones periciales  
 
-*Languages:*
+*Idiomas:*
 - Ingles B1
 - Arabe estándar A2
 - Italiano A1
