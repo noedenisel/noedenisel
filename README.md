@@ -4,13 +4,14 @@ Nacida en 1987 en Bs.As, Argentina.
 <p>Amante de los desafios, siempre estoy buscando algo nuevo y diferente que estudiar  </p>
 
 <h4 align="left">Now:</h4>
-- FrontEnd developer especializada en desarrollo UI
+- FrontEnd developer especializada en desarrollo UI </br>
+- FullStack Developer cursando el bootcamp Soy Henry </br>
 - FullSactk Developer graduada del Curso Samsung Desarrolladoras, de Samsung Developer Spain 
-- FullStack Developer cursando el M4 en Soy Henry
+
 
 <h4 align="left">Before:</h4>
 
-- Abogada, especializada en Género
+- Abogada, especializada en Género </br>
 - Técnica Superior en Investigaciones periciales  
 
 <h4 align="left">Idiomas:</h4>
