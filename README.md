@@ -17,7 +17,7 @@ Nacida en 1987 en Bs.As, Argentina.
 <h4 align="left">Idiomas:</h4>
 - Ingles B1 </br>
 - Arabe estándar A2 </br>
-- Italiano A1 </br>
+- Italiano A2 </br>
 
 <h3 align="left">Skills:</h3>
 <h4 align="left">Programming Languajes:</h4>
